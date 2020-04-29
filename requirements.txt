@@ -1,0 +1,12 @@
+sys
+os
+win32con
+win32api
+win32gui
+asyncio
+discord
+datetime
+random
+re
+time
+logging
